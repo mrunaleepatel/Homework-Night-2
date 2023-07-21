@@ -15,7 +15,7 @@ function App() {
       name: "Oppenhermer",
       year: "2023",
       rating: "9.0",
-      image: "https://www.oppenheimermovie.com/meta/meta-v3-en_US.jpg"
+      image: "https://cdn.artstation.com/p/thumbnails/001/324/070/thumb.jpg"
 
     },
     {
@@ -29,7 +29,7 @@ function App() {
       name: "Jai Bhim",
       year: "2021",
       rating: "8.8",
-      image: "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Jai_Bhim_soundtrack.jpg/220px-Jai_Bhim_soundtrack.jpg"
+      image: "https://www.bostoniff.com/wp-content/uploads/2022/03/Jai-Bhim.png"
 
     },
     {

@@ -3,7 +3,7 @@ const Movie = ({name, year, rating, image}) => {
 
     //The Components Returned JSX
     return ( 
-        <div>
+        <div className="movie-container">
             <h2>{name}</h2>
             <p>Year: {year}</p>
             <p>Rating: {rating}</p>

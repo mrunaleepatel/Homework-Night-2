@@ -4,7 +4,7 @@ const Movies = ({movies}) => {
 
     //The Components Returned JSX
     return (
-        <div>
+        <div className="movies-container">
             {movies.map((movie, index) => (
                 <Movie
                 key={index}
